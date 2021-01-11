@@ -22,9 +22,9 @@
 
 ## Assignments:
 
-1. Checkout https://jqueryui.com/ and try to install and use any widget you like.
-2. Checkout useful `resources` and `plugins`, about jQuery - https://github.com/petk/awesome-jquery
-3. Create filterable section using https://isotope.metafizzy.co/ plugin. [Example website](http://www.templatemonsterpreview.com/demo/79976.html?_gl=1*17vvqbz*_ga*MTMyNDA3NTc5LjE2MDYwMzM5OTk.*_ga_FTPYEGT5LY*MTYxMDM1ODEyMy4yLjEuMTYxMDM1ODIxNy4zMQ..&_ga=2.42262885.1962604881.1610358124-132407579.1606033999&_gac=1.19756106.1606660214.Cj0KCQiAqo3-BRDoARIsAE5vnaJWN4hp9fy53urYil_73AVJeqCXLjJ42lj9N8PsVJcsIESDNcb4zQsaAkfeEALw_wcB)
+1. **Checkout https://jqueryui.com/ and try to install and use any widget you like.**
+2. **Checkout useful `resources` and `plugins`, about jQuery** - https://github.com/petk/awesome-jquery
+3. **Create filterable section using https://isotope.metafizzy.co/ plugin. [Example website](http://www.templatemonsterpreview.com/demo/79976.html?_gl=1*17vvqbz*_ga*MTMyNDA3NTc5LjE2MDYwMzM5OTk.*_ga_FTPYEGT5LY*MTYxMDM1ODEyMy4yLjEuMTYxMDM1ODIxNy4zMQ..&_ga=2.42262885.1962604881.1610358124-132407579.1606033999&_gac=1.19756106.1606660214.Cj0KCQiAqo3-BRDoARIsAE5vnaJWN4hp9fy53urYil_73AVJeqCXLjJ42lj9N8PsVJcsIESDNcb4zQsaAkfeEALw_wcB)**
    - Go to the link and move to `We manufacture a hard copy of your dreams and stories.` section.
    - By click `(All, Web Design, Applications, Development)` links you can see how items are filtered out.
    - You need to create similar section with images and integrate this plugin to filter out your images.
