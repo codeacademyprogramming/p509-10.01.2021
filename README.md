@@ -2,51 +2,65 @@
 
 ## Lessons topics:
 
-- [Storing data in the browser](https://javascript.info/data-storage)
-  - [Cookies, document.cookie](https://javascript.info/cookie)
-  - [LocalStorage, sessionStorage](https://javascript.info/localstorage)
-  - Comparison table of storing data in the browser: https://codepen.io/beaucarnes/pen/KmeRMx
+- [jQuery](https://www.w3schools.com/jquery/default.asp)
+  - [jQuery Selectors](https://www.w3schools.com/jquery/jquery_ref_selectors.asp)
+  - [jQuery Event Methods](https://www.w3schools.com/jquery/jquery_ref_events.asp)
+  - [jQuery Effect Methods](https://www.w3schools.com/jquery/jquery_ref_effects.asp)
+  - [jQuery HTML / CSS Methods](https://www.w3schools.com/jquery/jquery_ref_html.asp)
+  - [jQuery Traversing Methods](https://www.w3schools.com/jquery/jquery_ref_traversing.asp)
 
 
 ## Additional articles and videos:
 
 - **Articles:**
-  - [MDN - Using HTTP cookies](https://developer.mozilla.org/en-US/docs/Web/HTTP/Cookies)
-  - [MDN - Web Storage API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Storage_API)
+  - You Might Not Need jQuery - http://youmightnotneedjquery.com/
+  - Introduction to jQuery Slides - https://johnresig.com/apps/workshop/intro/
 - **Videos:**
-  - [What Are Cookies? And How They Work | Explained for Beginners!](https://youtu.be/rdVPflECed8)
-  - [How ads follow you around the internet](https://youtu.be/HFyaW50GFOs)
-  - [How cookies can track you (Simply Explained)](https://youtu.be/QWw7Wd2gUJk)
-  - [2038 Will Be the End of Time (In the Unix 32-Bit Timecode)](https://youtu.be/zZwzrlLc_oc)
-  - [Vanilla JS - Movie DB project](https://drive.google.com/drive/folders/1igIIUsdOeFvwgZKVmEoCBFFebam09A4W?usp=sharing)
+  - [jQuery vs Vue, React and Angular](https://youtu.be/WJ2PQe-pQJw)
+  - [The Legend of jQuery in 100 Seconds](https://youtu.be/UU-GebNqdbg)
+  - [jQuery и современный JavaScript/CSS, пара слов о развитии фронтенда](https://youtu.be/onAUzEWpPBI)
 
 ## Assignments:
 
-1. **Watch these videos:**
-   - [How The Web Works - The Big Picture](https://youtu.be/hJHvdBlSxug)
-   - [HTTPS and Web Security - The State of the Web](https://youtu.be/kBzbKUirOFk)
-   - [JavaScript Cookies vs Local Storage vs Session](https://youtu.be/GihQAC1I39Q)
-2. **Save form fields in local or session storage.**
-   - Use form validation code from [previues lesson](https://github.com/codeacademyprogramming/p509-03.01.2021/tree/main/starter).
-   - Clear input's date when user submit the form.
+1. Checkout https://jqueryui.com/ and try to install and use any widget you like.
+2. Checkout useful `resources` and `plugins`, about jQuery - https://github.com/petk/awesome-jquery
+3. Create filterable section using https://isotope.metafizzy.co/ plugin. [Example website](http://www.templatemonsterpreview.com/demo/79976.html?_gl=1*17vvqbz*_ga*MTMyNDA3NTc5LjE2MDYwMzM5OTk.*_ga_FTPYEGT5LY*MTYxMDM1ODEyMy4yLjEuMTYxMDM1ODIxNy4zMQ..&_ga=2.42262885.1962604881.1610358124-132407579.1606033999&_gac=1.19756106.1606660214.Cj0KCQiAqo3-BRDoARIsAE5vnaJWN4hp9fy53urYil_73AVJeqCXLjJ42lj9N8PsVJcsIESDNcb4zQsaAkfeEALw_wcB)
+   - Go to the link and move to `We manufacture a hard copy of your dreams and stories.` section.
+   - By click `(All, Web Design, Applications, Development)` links you can see how items are filtered out.
+   - You need to create similar section with images and integrate this plugin to filter out your images.
+   - Design doesn't matter, I will check only functionality of filtering.
 
 ## Some other useful resources:
 
-- https://gkucmierz.github.io/Test-of-localStorage-limits-quota/
-
-
-2-3. https://bashooka.com/coding/20-javascript-navigation-menu-libraries/
-   1. https://www.jozefbutko.com/stickynavbar/
-   2. https://thednp.github.io/navbar.js/
-4. https://www.cssscript.com/top-10-javascript-css-accordion-components/
-5. https://github.com/cferdinandi/tabby
-   1. https://www.cssscript.com/top-10-javascript-css-tabs-components/
-6. http://countdownjs.org/
-   1. https://vincentloy.github.io/simplyCountdown.js/
-   2. https://albert-gonzalez.github.io/easytimer.js/
-   3. https://github.com/iamkun/dayjs
-   4. https://momentjs.com/
-7-8. https://bevacqua.github.io/dragula/
-   1. https://sortablejs.github.io/Sortable/#simple-list
-10. https://mathjs.org/docs/datatypes/units.html
-12. https://www.npmjs.com/package/password-generator
+- jQuery Official website: https://jquery.com/
+- [You-Don't-Need-jQuery: Examples of how to do query, style, dom, ajax, event etc like jQuery with plain javascript.](https://github.com/nefe/You-Dont-Need-jQuery)
+- [What to Pay JavaScript Developers in 2020](https://medium.com/javascript-scene/what-to-pay-javascript-developers-in-2020-2292eb346f3b)
+- Some plugins:
+  - EasyTimer.js - https://albert-gonzalez.github.io/easytimer.js/
+  - 75 Web Animation Tools You Have To Try - https://www.webdesignerdepot.com/2017/08/75-web-animation-tools-you-have-to-try/
+  - 84 jQuery Form Plugins - http://www.designyourway.net/blog/resources/jquery-form-plugins/
+  - Ballon.css - https://kazzkiq.github.io/balloon.css/
+  - Sliders:
+    - Swiper - http://idangero.us/swiper/#.WTcQPWiGOUk
+    - Owl Carousel - https://owlcarousel2.github.io/OwlCarousel2/
+    - Siema - https://pawelgrzybek.github.io/siema/
+    - FullPage.js - https://alvarotrigo.com/fullPage/#4thpage
+    - Slick - http://kenwheeler.github.io/slick/
+  - Fancy Box | Gallery, Modal - http://fancyapps.com/fancybox/3/
+  - Navbars & Sidebars:
+    - https://bashooka.com/coding/20-javascript-navigation-menu-libraries/
+    - https://www.jozefbutko.com/stickynavbar/
+    - https://thednp.github.io/navbar.js/
+  - Accordions - https://www.cssscript.com/top-10-javascript-css-accordion-components/
+  - Tabs:
+    - https://github.com/cferdinandi/tabby
+    - https://www.cssscript.com/top-10-javascript-css-tabs-components/
+  - Timers:
+    - http://countdownjs.org/
+    - https://vincentloy.github.io/simplyCountdown.js/
+    - https://albert-gonzalez.github.io/easytimer.js/
+    - https://github.com/iamkun/dayjs
+    - https://momentjs.com/
+  - DragDrops
+    - https://bevacqua.github.io/dragula/
+    - https://sortablejs.github.io/Sortable/#simple-list
