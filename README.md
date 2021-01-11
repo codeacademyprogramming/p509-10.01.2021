@@ -34,8 +34,7 @@
 ## Some other useful resources:
 
 - jQuery Official website: https://jquery.com/
-- [You-Don't-Need-jQuery: Examples of how to do query, style, dom, ajax, event etc like jQuery with plain javascript.](https://github.com/nefe/You-Dont-Need-jQuery)
-- [What to Pay JavaScript Developers in 2020](https://medium.com/javascript-scene/what-to-pay-javascript-developers-in-2020-2292eb346f3b)
+- What to Pay JavaScript Developers in 2020: https://medium.com/javascript-scene/what-to-pay-javascript-developers-in-2020-2292eb346f3b
 - Some plugins:
   - EasyTimer.js - https://albert-gonzalez.github.io/easytimer.js/
   - 75 Web Animation Tools You Have To Try - https://www.webdesignerdepot.com/2017/08/75-web-animation-tools-you-have-to-try/
