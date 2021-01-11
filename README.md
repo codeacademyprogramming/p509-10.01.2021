@@ -15,6 +15,7 @@
 - **Articles:**
   - You Might Not Need jQuery - http://youmightnotneedjquery.com/
   - Introduction to jQuery Slides - https://johnresig.com/apps/workshop/intro/
+  - Cheat sheet for moving from jQuery to vanilla JavaScript - https://tobiasahlin.com/blog/move-from-jquery-to-vanilla-javascript/
 - **Videos:**
   - [jQuery vs Vue, React and Angular](https://youtu.be/WJ2PQe-pQJw)
   - [The Legend of jQuery in 100 Seconds](https://youtu.be/UU-GebNqdbg)
